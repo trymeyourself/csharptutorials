@@ -1,0 +1,15 @@
+C:\Users\agk\Desktop\TryMeYourSelf\LearnPLT\csharp\consoleapps\firsconsoleapp\bin\Debug\net8.0\firsconsoleapp.exe
+C:\Users\agk\Desktop\TryMeYourSelf\LearnPLT\csharp\consoleapps\firsconsoleapp\bin\Debug\net8.0\firsconsoleapp.deps.json
+C:\Users\agk\Desktop\TryMeYourSelf\LearnPLT\csharp\consoleapps\firsconsoleapp\bin\Debug\net8.0\firsconsoleapp.runtimeconfig.json
+C:\Users\agk\Desktop\TryMeYourSelf\LearnPLT\csharp\consoleapps\firsconsoleapp\bin\Debug\net8.0\firsconsoleapp.dll
+C:\Users\agk\Desktop\TryMeYourSelf\LearnPLT\csharp\consoleapps\firsconsoleapp\bin\Debug\net8.0\firsconsoleapp.pdb
+C:\Users\agk\Desktop\TryMeYourSelf\LearnPLT\csharp\consoleapps\firsconsoleapp\obj\Debug\net8.0\firsconsoleapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agk\Desktop\TryMeYourSelf\LearnPLT\csharp\consoleapps\firsconsoleapp\obj\Debug\net8.0\firsconsoleapp.AssemblyInfoInputs.cache
+C:\Users\agk\Desktop\TryMeYourSelf\LearnPLT\csharp\consoleapps\firsconsoleapp\obj\Debug\net8.0\firsconsoleapp.AssemblyInfo.cs
+C:\Users\agk\Desktop\TryMeYourSelf\LearnPLT\csharp\consoleapps\firsconsoleapp\obj\Debug\net8.0\firsconsoleapp.csproj.CoreCompileInputs.cache
+C:\Users\agk\Desktop\TryMeYourSelf\LearnPLT\csharp\consoleapps\firsconsoleapp\obj\Debug\net8.0\firsconsoleapp.sourcelink.json
+C:\Users\agk\Desktop\TryMeYourSelf\LearnPLT\csharp\consoleapps\firsconsoleapp\obj\Debug\net8.0\firsconsoleapp.dll
+C:\Users\agk\Desktop\TryMeYourSelf\LearnPLT\csharp\consoleapps\firsconsoleapp\obj\Debug\net8.0\refint\firsconsoleapp.dll
+C:\Users\agk\Desktop\TryMeYourSelf\LearnPLT\csharp\consoleapps\firsconsoleapp\obj\Debug\net8.0\firsconsoleapp.pdb
+C:\Users\agk\Desktop\TryMeYourSelf\LearnPLT\csharp\consoleapps\firsconsoleapp\obj\Debug\net8.0\firsconsoleapp.genruntimeconfig.cache
+C:\Users\agk\Desktop\TryMeYourSelf\LearnPLT\csharp\consoleapps\firsconsoleapp\obj\Debug\net8.0\ref\firsconsoleapp.dll
