@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\agk\\Desktop\\TryMeYourSelf\\LearnPLT\\csharp\\consoleapps\\firsconsoleapp\\firsconsoleapp.csproj",
+      "projectUniqueName": "D:\\tutorials\\yt\\trymeyourself\\csharptutorials\\CONSOLEAPPS\\firsconsoleapp\\firsconsoleapp.csproj",
       "projectName": "firsconsoleapp",
-      "projectPath": "C:\\Users\\agk\\Desktop\\TryMeYourSelf\\LearnPLT\\csharp\\consoleapps\\firsconsoleapp\\firsconsoleapp.csproj",
+      "projectPath": "D:\\tutorials\\yt\\trymeyourself\\csharptutorials\\CONSOLEAPPS\\firsconsoleapp\\firsconsoleapp.csproj",
       "packagesPath": "C:\\Users\\agk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\agk\\Desktop\\TryMeYourSelf\\LearnPLT\\csharp\\consoleapps\\firsconsoleapp\\obj\\",
+      "outputPath": "D:\\tutorials\\yt\\trymeyourself\\csharptutorials\\CONSOLEAPPS\\firsconsoleapp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\agk\\AppData\\Roaming\\NuGet\\NuGet.Config"
